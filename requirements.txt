@@ -1,0 +1,2 @@
+pygifsicle
+alive-progress
